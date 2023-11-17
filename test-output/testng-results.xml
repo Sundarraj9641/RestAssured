@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T16:16:14 IST" name="Default suite" finished-at="2023-11-16T16:16:21 IST" duration-ms="6847">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T16:16:14 IST" name="Default test" finished-at="2023-11-16T16:16:21 IST" duration-ms="6847">
+      <class name="com.tests.ParsingXMLResponse">
+        <test-method signature="xmlResponse_Aproach_1()[pri:0, instance:com.tests.ParsingXMLResponse@b62d79]" started-at="2023-11-16T16:16:15 IST" name="xmlResponse_Aproach_1" finished-at="2023-11-16T16:16:20 IST" duration-ms="5699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlResponse_Aproach_1 -->
+        <test-method signature="xmlResponse_Aproach_2()[pri:0, instance:com.tests.ParsingXMLResponse@b62d79]" started-at="2023-11-16T16:16:20 IST" name="xmlResponse_Aproach_2" finished-at="2023-11-16T16:16:21 IST" duration-ms="480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlResponse_Aproach_2 -->
+        <test-method signature="xmlResponse_Aproach_3()[pri:0, instance:com.tests.ParsingXMLResponse@b62d79]" started-at="2023-11-16T16:16:21 IST" name="xmlResponse_Aproach_3" finished-at="2023-11-16T16:16:21 IST" duration-ms="574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlResponse_Aproach_3 -->
+      </class> <!-- com.tests.ParsingXMLResponse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
